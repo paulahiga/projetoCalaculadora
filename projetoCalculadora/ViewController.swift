@@ -23,7 +23,6 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        ibButton0.layer.cornerRadius = ibButton0.layer.frame.height / 2
         
         // Do any additional setup after loading the view.
     }

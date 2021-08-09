@@ -37,33 +37,39 @@ class ViewController: UIViewController {
     
     @IBAction func button1(_ sender: Any) {
         resultLabel.text = resultLabel.text! + "1"
-    
+       
     }
     
-    @IBAction func button2(_ sender: Any) { resultLabel.text = resultLabel.text! + "2"
+    @IBAction func button2(_ sender: Any) {
+        resultLabel.text = resultLabel.text! + "2"
     }
     
-    @IBAction func button3(_ sender: Any) { resultLabel.text = resultLabel.text! + "3"
+    @IBAction func button3(_ sender: Any) {
+        resultLabel.text = resultLabel.text! + "3"
     }
     
-    @IBAction func button4(_ sender: Any) { resultLabel.text = resultLabel.text! + "4"
+    @IBAction func button4(_ sender: Any) {
+        resultLabel.text = resultLabel.text! + "4"
     }
     
-    @IBAction func button5(_ sender: Any) { resultLabel.text = resultLabel.text! + "5"
+    @IBAction func button5(_ sender: Any) {
+        resultLabel.text = resultLabel.text! + "5"
     }
     
     @IBAction func button6(_ sender: Any) {
         resultLabel.text = resultLabel.text! + "6"
     }
     
-    @IBAction func button7(_ sender: Any) { resultLabel.text = resultLabel.text! + "7"
+    @IBAction func button7(_ sender: Any) {
+        resultLabel.text = resultLabel.text! + "7"
     }
     
     @IBAction func button8(_ sender: Any) {
         resultLabel.text = resultLabel.text! + "8"
     }
     
-    @IBAction func button9(_ sender: Any) { resultLabel.text = resultLabel.text! + "9"
+    @IBAction func button9(_ sender: Any) {
+        resultLabel.text = resultLabel.text! + "9"
     }
     
     @IBAction func buttonAc(_ sender: Any) {
